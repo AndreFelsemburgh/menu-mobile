@@ -82,12 +82,13 @@ a:hover {
         border: none;
         background: none;
         cursor: pointer;
+        gap: .5rem;
     }
 
     #hamburger {
         width: 20px;
         border-top: 2px solid;
-        gap: .5rem;
+        /*gap: .5rem;*/
         display: block;
     }
 
